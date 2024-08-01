@@ -1,3 +1,3 @@
 # first_app
 
-A firebase Project uning Firebase realtime database and firestore.
+A firebase Project using Firebase realtime database and firestore.
