@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "338376877866",
+    "project_id": "first-app-firebase-e8f0f",
+    "storage_bucket": "first-app-firebase-e8f0f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:338376877866:android:25cc031800e2ad3e09a053",
+        "android_client_info": {
+          "package_name": "com.luna.first_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD8XTfsiuj8nGTi-1dy4dtND9cuz_1axio"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
